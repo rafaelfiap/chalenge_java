@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="HttpClientEndpointsTabState">
+    <option name="requestToText" value="&lt;CachedHttpClientTabRequests&gt;&#10;  &lt;entry key=&quot;039aa27dca5db7dba8548e17125535ad10899b7d&quot; value=&quot;###&amp;#10;GET http://localhost:8080/restapi_war/api/rest/pessoa/all&quot; /&gt;&#10;  &lt;entry key=&quot;daca37af686504786745c19ab07003f5a1f270db&quot; value=&quot;###&amp;#10;POST http://localhost:8080/restapi_war/api/rest/pessoa/&amp;#10;Content-Type: application/json&amp;#10;&amp;#10;{&amp;#10;  &amp;quot;id&amp;quot;: 0,&amp;#10;  &amp;quot;nome&amp;quot;: &amp;quot;Rafa&amp;quot;&amp;#10;}&quot; /&gt;&#10;  &lt;entry key=&quot;6c337546174c0a7416f6c8710075c6dcd3620e58&quot; value=&quot;###&amp;#10;PUT http://localhost/api/rest/pessoa/{{id}}&amp;#10;Content-Type: application/json&amp;#10;&amp;#10;{&amp;#10;  &amp;quot;id&amp;quot;: 0,&amp;#10;  &amp;quot;nome&amp;quot;: &amp;quot;&amp;quot;&amp;#10;}&quot; /&gt;&#10;  &lt;entry key=&quot;82b1eeca63dbad76ac7a17c9172b07ba34c7c4c5&quot; value=&quot;###&amp;#10;DELETE http://localhost:8080/restapi_war/api/rest/pessoa/{{23}}&quot; /&gt;&#10;&lt;/CachedHttpClientTabRequests&gt;" />
+  </component>
+</project>
